@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="site-footer">
     <div className="container">
-      <div className="row">
+{/*       <div className="row">
         <div className="col-md-8">
           <form action="#" className="subscribe-form">
             <input type="text" placeholder="Enter your email to subscribe..." />
@@ -19,7 +19,7 @@ const Footer = () => {
             <a href="#"><i className="fa fa-pinterest"></i></a>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <p className="colophon">Copyright 2014 Company name. Designed by Themezy. All rights reserved</p>
     </div>
